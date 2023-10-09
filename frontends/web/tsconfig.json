@@ -13,10 +13,6 @@
 		"checkJs": false,
 		"strict": true,
 
-		// Fev info
-		"declaration": true,
-		"sourceMap": true, 
-
 		// Use native class fields
 		"useDefineForClassFields": true,
 
