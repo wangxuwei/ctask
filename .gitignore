@@ -37,3 +37,16 @@ report.*.json
 *.jpg
 *.gif
 *.png
+
+
+# rollup typescript error
+.rpt2_cache/
+
+# By default those files are compile output
+*.js
+!pcss.config.js
+!rollup.config.js
+!sprite-demo.js
+*.css
+!sprite-demo.css
+*.map 
